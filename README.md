@@ -1,3 +1,2 @@
-# dio-desafio-github-primeiro-repositorio
-# Desafio de Projeto sobre Grit/Github
-Repositório criado para o Desafio de Projeto
+# Digital Inovation One - DIO - Bootcamp Santander
+Repositório criado para o Bootcamp Santander Fullstack Developer
